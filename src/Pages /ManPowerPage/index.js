@@ -45,7 +45,7 @@ const ManPowerPage = () => {
     },
     {
       id: 2,
-      plantName: 'Plant A',
+      plantName: 'Plant B',
       rawMaterial: 'Steel',
       finishGood: '30 units',
       scrap: '5 units',
